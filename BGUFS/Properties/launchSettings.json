@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BGUFS": {
+      "commandName": "Project",
+      "commandLineArgs": "-addLink BGUFS_FS.dat linkToUri uri.txt"
+    }
+  }
+}

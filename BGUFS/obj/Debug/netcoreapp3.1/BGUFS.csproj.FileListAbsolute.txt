@@ -1,0 +1,26 @@
+C:\Users\uri zlotkin\source\repos\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.exe
+C:\Users\uri zlotkin\source\repos\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.deps.json
+C:\Users\uri zlotkin\source\repos\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.runtimeconfig.json
+C:\Users\uri zlotkin\source\repos\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.runtimeconfig.dev.json
+C:\Users\uri zlotkin\source\repos\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.dll
+C:\Users\uri zlotkin\source\repos\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.pdb
+C:\Users\uri zlotkin\source\repos\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.csprojAssemblyReference.cache
+C:\Users\uri zlotkin\source\repos\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.AssemblyInfoInputs.cache
+C:\Users\uri zlotkin\source\repos\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.AssemblyInfo.cs
+C:\Users\uri zlotkin\source\repos\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.csproj.CoreCompileInputs.cache
+C:\Users\uri zlotkin\source\repos\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.dll
+C:\Users\uri zlotkin\source\repos\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.pdb
+C:\Users\uri zlotkin\source\repos\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.genruntimeconfig.cache
+C:\Users\uri zlotkin\Documents\לימודים\סמסטר ד\מערכות הפעלה\עבודות\עבודה 4\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.exe
+C:\Users\uri zlotkin\Documents\לימודים\סמסטר ד\מערכות הפעלה\עבודות\עבודה 4\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.deps.json
+C:\Users\uri zlotkin\Documents\לימודים\סמסטר ד\מערכות הפעלה\עבודות\עבודה 4\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.runtimeconfig.json
+C:\Users\uri zlotkin\Documents\לימודים\סמסטר ד\מערכות הפעלה\עבודות\עבודה 4\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.runtimeconfig.dev.json
+C:\Users\uri zlotkin\Documents\לימודים\סמסטר ד\מערכות הפעלה\עבודות\עבודה 4\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.dll
+C:\Users\uri zlotkin\Documents\לימודים\סמסטר ד\מערכות הפעלה\עבודות\עבודה 4\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.pdb
+C:\Users\uri zlotkin\Documents\לימודים\סמסטר ד\מערכות הפעלה\עבודות\עבודה 4\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.csprojAssemblyReference.cache
+C:\Users\uri zlotkin\Documents\לימודים\סמסטר ד\מערכות הפעלה\עבודות\עבודה 4\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.AssemblyInfoInputs.cache
+C:\Users\uri zlotkin\Documents\לימודים\סמסטר ד\מערכות הפעלה\עבודות\עבודה 4\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.AssemblyInfo.cs
+C:\Users\uri zlotkin\Documents\לימודים\סמסטר ד\מערכות הפעלה\עבודות\עבודה 4\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.csproj.CoreCompileInputs.cache
+C:\Users\uri zlotkin\Documents\לימודים\סמסטר ד\מערכות הפעלה\עבודות\עבודה 4\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.dll
+C:\Users\uri zlotkin\Documents\לימודים\סמסטר ד\מערכות הפעלה\עבודות\עבודה 4\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.pdb
+C:\Users\uri zlotkin\Documents\לימודים\סמסטר ד\מערכות הפעלה\עבודות\עבודה 4\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.genruntimeconfig.cache
